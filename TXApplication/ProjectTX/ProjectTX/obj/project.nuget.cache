@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IDW67JzSUjvgrHgcED+c/bL3HXgnIK6yw3TXQ986nhZwX3Nqw3CIa6ikD/Rf2KKX1rqIMOTQV5id6/JpnQ2flA==",
+  "dgSpecHash": "fdShHqexBizt78UsZflFY5OULYQe+xhl1pYW39l2buXM5voWglGIenMSJdSALF6+Pv5H6SiXVDMwAlFGnkDVdA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Nhuvo\\OneDrive\\Tài liệu\\ProjectTX\\ProjectTX\\TXApplication\\ProjectTX\\ProjectTX\\ProjectTX.csproj",
+  "projectFilePath": "C:\\Users\\Nhuvo\\Documents\\ProjectTX\\TXApplication\\ProjectTX\\ProjectTX\\ProjectTX.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Nhuvo\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\microsoft.aspnetcore.cryptography.internal\\6.0.5\\microsoft.aspnetcore.cryptography.internal.6.0.5.nupkg.sha512",
@@ -42,6 +42,7 @@
     "C:\\Users\\Nhuvo\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\microsoft.win32.systemevents\\4.7.0\\microsoft.win32.systemevents.4.7.0.nupkg.sha512",
+    "C:\\Users\\Nhuvo\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\system.configuration.configurationmanager\\4.7.0\\system.configuration.configurationmanager.4.7.0.nupkg.sha512",
     "C:\\Users\\Nhuvo\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",

@@ -1,0 +1,12 @@
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\bin\Debug\net6.0\TXLibary.deps.json
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\bin\Debug\net6.0\TXLibary.dll
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\bin\Debug\net6.0\TXLibary.pdb
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.csproj.AssemblyReference.cache
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.AssemblyInfoInputs.cache
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.AssemblyInfo.cs
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.csproj.CoreCompileInputs.cache
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.dll
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\refint\TXLibary.dll
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\TXLibary.pdb
+C:\Users\Nhuvo\Documents\ProjectTX\TXLibary\obj\Debug\net6.0\ref\TXLibary.dll
